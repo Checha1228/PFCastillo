@@ -163,6 +163,9 @@ section {
   margin: 20px auto;
   width: 100%; }
 
+.section__description-size {
+  height: 122px; }
+
 .hero-2 {
   margin-bottom: 0; }
 
